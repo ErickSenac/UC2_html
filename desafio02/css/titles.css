@@ -1,0 +1,26 @@
+h4{
+    color: blueviolet;
+    background-color: rgb(251, 255, 0); width: 300px;
+    font-size: 30px;
+    border: 5px solid rgb(139, 34, 34);
+    padding: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.t2{
+   color: white;
+   background-color: black;
+   border: 5px solid yellowgreen;
+   text-align: center;
+}
+
+.t3{
+    color: aqua;
+    background-color: rgb(210, 30, 60);
+    border: 5px solid blue;
+    text-align: end;
+}
+
+/* SOU UM 
+COMENTARIO DE 
+MULTIPLAS LINHAS*/

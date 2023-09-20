@@ -1,0 +1,14 @@
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+td, th{
+    border: 1px solid red;
+    padding: 8px;
+}
+th{
+    background-color: skyblue;
+}
+
+padding = espaçamento
+border-collapse = tira o espaço entre as tabelas
